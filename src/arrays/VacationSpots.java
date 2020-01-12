@@ -22,7 +22,7 @@ public class VacationSpots {
 //		vacaSpots[3] = input.nextLine();
 
 		for(int i=0; i<vacaSpots.length; i++) {
-			vacaSpots[i] = input.next();
+			vacaSpots[i] = input.next(); // user input determines array
 		}
 		
 		
